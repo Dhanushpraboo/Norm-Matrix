@@ -18,7 +18,7 @@ a=eval(input())
 res=np.linalg.norm(a,2)
 print("{:.2f}".format(res))
 ```
-## Sample Input and Output:
+## Output:
 ![norm](Norm.png)
 
 ## Result
