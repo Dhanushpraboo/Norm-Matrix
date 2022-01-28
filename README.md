@@ -19,7 +19,7 @@ res=np.linalg.norm(a,2)
 print("{:.2f}".format(res))
 ```
 ## Sample Input and Output:
-![norm](Norm.jpg)
+![norm](Norm.png)
 
 ## Result
 Thus the program for 2-norm of a matrix is written and verified.
